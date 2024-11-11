@@ -1,18 +1,18 @@
 {
   "basics": {
-    "name": "Albert Einstein",
+    "name": "Sixian Du",
     "label": "Scientist",
-    "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
+    "image": "😊",
+    "email": "dusixian16@163.com",
+    "phone": "(26) 18271878646",
     "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "summary": "A China-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
     "location": {
       "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "postalCode": "430030",
+      "city": "Wuhan",
+      "countryCode": "China",
+      "region": "Hubei Province"
     },
     "profiles": [
       {
