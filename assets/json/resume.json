@@ -8,7 +8,7 @@
     "url": "https://alshedivat.github.io/al-folio/",
     "summary": "A China-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
     "location": {
-      "address": "2712 Broadway St",
+      "address": "School of Healthcare Management, Tongji Medical College, Huazhong University of Science and Technology",
       "postalCode": "430030",
       "city": "Wuhan",
       "countryCode": "China",
@@ -16,20 +16,19 @@
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "小红书",
+        "username": "哈哈哈佛",
+        "url": "https://www.xiaohongshu.com/user/profile/5ae440bc4eacab0f8b0fd4dd?xhsshare=CopyLink&appuid=5ae440bc4eacab0f8b0fd4dd&apptime=1731306563&share_id=1bfcc35d607b48e5969e7a1af4f166ef"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "name": "School of Healthcare Management, Tongji Medical College, Huazhong University of Science and Technology",
+      "position": "Master",
+      "startDate": "2019-09-01",
+      "endDate": "2027-06-30",
+      "summary": "Studying for a bachelor's or master's degree, with a focus on primary healthcare services and health economics.",
       "highlights": ["Relativity"]
     }
   ],
